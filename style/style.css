@@ -7,8 +7,16 @@ body{
 	background: url(../images/bg.jpg) repeat 0 0;
 	transition: all 100s ease;
 }
+.bg-new{
+	
+}
 .bg:hover{
 	background-position: 0px -2000px;
+}
+.close-bg{
+	height:20px;
+	width: 60px;
+	background-color: white;
 }
 
 .clearfix{
